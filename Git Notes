@@ -1,0 +1,33 @@
+git clone linkToTheGitHubReboGoesHere
+	will clone the repo to a directory
+
+git init
+
+git add README.md
+
+git commit -m "first commit"
+	saves work locally
+
+git remote add origin https://github.com/clarios6/REPOHERE
+	links your folder to the repo
+
+git push -u origin master
+	Don't push to the master all the time, make branches so it doesn't freak stuff up
+
+git pull
+	get code
+
+git branch 
+	tells you the branch your working on
+
+git branch name
+	switches branch / makes new one
+
+git checkout branchName
+	switches branch
+
+
+
+
+
+
